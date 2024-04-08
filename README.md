@@ -27,14 +27,15 @@
     <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=algoomessiahs&show_icons=true&theme=vue-dark&locale=en&layout=compact" alt="atitbimali" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=algoomessiahs&show_icons=true&theme=vue-dark&locale=en&layout=compact" alt="algoomessiahs" /></p>
 
   <p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@algoomessiahs&theme=radical&compact=True" />
 </p>
 <br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AtitBimali&theme=tokyonight" alt="atitbimali" />
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AtitBimali&show_icons=true&theme=react&locale=en" alt="atitbimali" />
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=algoomessiahs&theme=tokyonight" alt="" />
+  <br>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=algoomessiahs&show_icons=true&theme=react&locale=en" alt="" />
   </p>
 <br>
