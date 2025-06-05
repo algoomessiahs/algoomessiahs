@@ -2,7 +2,7 @@
 
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b> </ Ideas into code /> </b></h1>
+  <h1 align="center"><b> Ideas into code </b></h1>
 </p>
 
 
